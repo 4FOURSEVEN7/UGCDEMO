@@ -1,16 +1,16 @@
-<svg width="1710" height="1865" viewBox="0 0 1710 1865" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_f_173_738)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1056.77 757.747C1090.72 858.386 1238.33 821.89 1284.14 915.41C1321.6 991.893 1318.44 1126.96 1260.26 1173.2C1182.06 1235.36 1070.04 1127.96 979.579 1157.49C935.209 1171.97 930.48 1251.91 897.97 1291.46C852.618 1346.63 811.302 1413.21 750.207 1436.52C684.514 1461.58 596.296 1486.46 543.713 1426.6C486.275 1361.22 522.744 1239.15 497.048 1148.36C479.058 1084.79 429.767 1039.63 415.811 974.698C401.642 908.776 389.616 831.387 416.682 774.46C445.255 714.364 533.358 731.913 560.375 670.646C593.236 596.124 523.424 469.775 575.211 414.95C621.209 366.254 693.851 455.936 755.358 464.223C805.845 471.026 854.703 462.114 905.099 459.397C979.354 455.393 1084.42 364.082 1125.19 444.281C1173.68 539.66 1021.79 654.068 1056.77 757.747Z" fill="url(#paint0_linear_173_738)"/>
+<svg width="1227" height="1543" viewBox="0 0 1227 1543" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_181_200)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M633.233 241.814C738.824 229.885 822.848 367.06 883.24 489.688C933.443 591.629 918.918 718.665 928.795 841.962C941.006 994.385 1039.48 1203.28 946.863 1283.89C846.653 1371.11 750.206 1118.7 633.233 1099.21C545.254 1084.56 466.21 1243.19 385.91 1190.46C295.949 1131.39 234.057 981.421 241.462 841.962C248.65 706.569 355.109 641.911 420.341 541.983C490.993 433.753 529.205 253.566 633.233 241.814Z" fill="url(#paint0_linear_181_200)"/>
 </g>
 <defs>
-<filter id="filter0_f_173_738" x="0.140625" y="0.173096" width="1709.01" height="1863.84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_f_181_200" x="0.439224" y="0.66481" width="1226.16" height="1541.91" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="200.185" result="effect1_foregroundBlur_173_738"/>
+<feGaussianBlur stdDeviation="120.211" result="effect1_foregroundBlur_181_200"/>
 </filter>
-<linearGradient id="paint0_linear_173_738" x1="1216.65" y1="864.172" x2="325.385" y2="1616.66" gradientUnits="userSpaceOnUse">
-<stop offset="0.213542"/>
-<stop offset="1" stop-opacity="0"/>
+<linearGradient id="paint0_linear_181_200" x1="486.093" y1="824.513" x2="613.517" y2="1302.15" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF00B8" stop-opacity="0.88"/>
+<stop offset="1" stop-color="#89199B" stop-opacity="0.94"/>
 </linearGradient>
 </defs>
 </svg>
